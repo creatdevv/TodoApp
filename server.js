@@ -3,7 +3,7 @@ const app = express();
 
 app.listen(8080, function(){
     console.log('listening on 8080')
-});
+}); 
  
 // 누군가가 /pet 으로 방문을 하면...
 // pet관련된 안내문을 띄워주자
